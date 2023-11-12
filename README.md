@@ -45,4 +45,3 @@ You can install these dependencies by running the following commands:
 
 The sentiment analysis results for each review will be printed, showing the original text and the predicted sentiment from each model.
 
-## The above readme.txt content is genereated by Gpt.
