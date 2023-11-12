@@ -45,3 +45,12 @@ You can install these dependencies by running the following commands:
 
 The sentiment analysis results for each review will be printed, showing the original text and the predicted sentiment from each model.
 
+## Reference
+- 1.	Adnan Zaidi. "NLP Text to Emotion." Kaggle, 2021. Available at: https://www.kaggle.com/code/adnanzaidi/nlp-text-to-emotion
+
+- 2.	Blessondensil294. "Beginner NLP Product Sentiment Analysis - TextBlob." Kaggle, 2021. Available at: https://www.kaggle.com/code/blessondensil294/beginner-nlp-product-sentiment-analysis-textblob
+
+
+- 3.	Hugging Face. "Text Classification." Hugging Face Tasks, 2021. Available at: https://huggingface.co/tasks/text-classification
+
+- 4.	ScrapeOps. "Python Scrapy Amazon Reviews Scraper." ScrapeOps, 2021. Available at: https://scrapeops.io/python-scrapy-playbook/python-scrapy-amazon-reviews-scraper/
